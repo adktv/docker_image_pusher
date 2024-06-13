@@ -3,6 +3,3 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-nyanmisaka/jellyfin
-linuxserver/jackett
-allanpk716/chinesesubfinder
