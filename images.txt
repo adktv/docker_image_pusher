@@ -3,3 +3,6 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+ghcr.monlor.com/monlor/xiaoya-embyserver
+ghcr.monlor.com/monlor/xiaoya-metadata
+ghcr.monlor.com/monlor/xiaoya-alist
